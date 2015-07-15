@@ -7,9 +7,6 @@ public class Muuttujat {
         double pekoninPaino = 5.5;
         String traktori = "Ei ole!";
 
-	if(1 == 1){
-		System.out.println("Moi ilari");
-	}
         // ÄLÄ MUUTA NÄITÄ:                
         System.out.println("Kanoja:");
         System.out.println(kanojenLkm);
