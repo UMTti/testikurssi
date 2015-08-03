@@ -3,8 +3,8 @@ public class Muuttujat {
     public static void main(String[] args) {
         // MUUTA NÄITÄ:
 
-        int kanojenLkm = 3;
-        double pekoninPaino = 5.5;
+        int kanojenLkm = 4;
+        double asddd = 5.5;
         String traktori = "Ei ole!";
 
 	if(1 == 1){
