@@ -41,7 +41,7 @@ public class MuuttujatTest {
     }	
     @Test
     public void testaaKanat() {
-        testaa("Kanoja:","9000");
+        testaa("Juuhh","1234");
     }
 
     @Test
