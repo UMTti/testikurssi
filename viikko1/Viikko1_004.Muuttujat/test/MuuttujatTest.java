@@ -37,8 +37,6 @@ public class MuuttujatTest {
     }
 
 
-    // here's a change!
-
     void testi(){
 	assertEquals(1, 2);
     }	
