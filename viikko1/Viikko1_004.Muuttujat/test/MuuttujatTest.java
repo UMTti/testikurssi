@@ -36,6 +36,9 @@ public class MuuttujatTest {
                    Pattern.matches(tokaRegex(a,b),out));
     }
 
+
+    // here's a change!
+
     void testi(){
 	assertEquals(1, 2);
     }	
