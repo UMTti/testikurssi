@@ -52,6 +52,7 @@ public class MuuttujatTest {
 
     @Test
     public void testaaTraktori() {
+        // aslkdfjlsadjflsdfj
         testaa("Traktori:","Zetor");
     }
 
