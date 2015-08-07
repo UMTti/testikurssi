@@ -9,7 +9,6 @@ import fi.helsinki.cs.tmc.edutestutils.MockStdio;
 
 @Points("4")
 public class MuuttujatTest {
-//asdflksadf
     String out;
 
     @Rule
