@@ -49,7 +49,6 @@ public class MuuttujatTest {
     public void testaaPekoni() {
         testaa("Pekonia \\(kg\\):","0\\.1");
     }
-    // alskdjflsajflskdfj
 
     @Test
     public void testaaTraktori() {
