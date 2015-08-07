@@ -36,6 +36,7 @@ public class MuuttujatTest {
                    Pattern.matches(tokaRegex(a,b),out));
     }
 
+
     void testi(){
 	assertEquals(1, 2);
     }	
@@ -48,6 +49,7 @@ public class MuuttujatTest {
     public void testaaPekoni() {
         testaa("Pekonia \\(kg\\):","0\\.1");
     }
+    // alskdjflsajflskdfj
 
     @Test
     public void testaaTraktori() {
